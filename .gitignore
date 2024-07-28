@@ -14,7 +14,7 @@ dist/
 downloads/
 eggs/
 .eggs/
-.nenv
+nenv/
 lib/
 lib64/
 parts/
